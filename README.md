@@ -24,4 +24,4 @@ Regional and Industry-Based Wage Differences: Explore how wages vary across diff
 Use the filters on the top of the report to select specific industries, years, and demographics. 
 
 **To view the full Power BI report: **
-Download the .pbix file [here](link to .pbix file) and open it in Power BI Desktop. Alternatively, view the report summary in the provided PDF file [here](link to PDF file).
+Download the .pbix file [](link to .pbix file) and open it in Power BI Desktop. Alternatively, view the report summary in the provided PDF file [Male wages Analysis.pdf](link to PDF file).
